@@ -1,12 +1,12 @@
 <widget xmlns ="http://www.w3.org/ns/widgets"
    xmlns:gap ="http://phonegap.com/ns/1.0"
-   id ="com.phonegap.app5"
+   id ="com.phonegap.app6"
    version ="1.0.0">
    
-   <name>app4 Advertencias del Dispositivo</name>
+   <name>app6 app6 DESLIZAR</name>
    
    <description>
-   Aplicacion que realiza la vibracion y beep del Dispositivo
+  Apliacion con las funciones de deslizamiento
    </description>
    
    <author href="https://build.phonegap.com" email="reneeulogiogalvez@gmail.com">
